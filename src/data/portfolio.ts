@@ -37,7 +37,7 @@ export const personalInfo = {
   name: 'Guilherme Salles',
   role: 'Desenvolvedor Full Stack',
   tagline: 'Transformando ideias em código de alta performance',
-  email: 'contato@guilhermesalles.dev',
+  email: 'guiisales.dev@gmail.com',
   location: 'Brasil',
   bio: `Desenvolvedor Full Stack com 4 anos de experiência, formado em Análise e 
 Desenvolvimento de Sistemas. Especializado em criar soluções web completas 
