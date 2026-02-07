@@ -47,8 +47,8 @@ Focado em entregar projetos que combinam código limpo, performance e
 experiências de usuário memoráveis. Sempre em busca de novos desafios 
 e aprendizado contínuo.`,
   shortBio: 'Full Stack Developer com 4 anos de experiência, formado em ADS. Especializado em React, Next.js e Python.',
-  avatar: '/avatar.jpg', // Adicione sua foto aqui
-  resumeUrl: '/resume.pdf', // Adicione seu currículo aqui
+  avatar: '/avatar.jpeg',
+  resumeUrl: '/resume.pdf',
 }
 
 // ===== REDES SOCIAIS =====
